@@ -6,7 +6,7 @@ The sensors used are an IR remote control, and an ultrasonic sensor.  The bot su
 It also supports replaying movements in reverse and mirrored, so that a single recording can be used to travel back and forth.
 Hand gestures can be used to control the bot as well.
 
-A demonstration of my bot in action can be found [here](https://www.youtube.com/watch?v=8Y4A216La6w&feature=youtu.be)
+A video demonstration of my bot in action can be found [here](https://www.youtube.com/watch?v=8Y4A216La6w&feature=youtu.be)
 
 The source code can be found in the "src" folder.
 
