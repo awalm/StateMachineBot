@@ -8,7 +8,11 @@ Hand gestures can be used to control the bot as well.
 
 A demonstration of my bot in action can be found [here](https://www.youtube.com/watch?v=8Y4A216La6w&feature=youtu.be)
 
-Software Architecture Diagram:
+The source code can be found in the "src" folder.
 
+Software Architecture Diagram:
+![Software Architecture Diagram](https://github.com/awalm/StateMachineBot/blob/master/architecture-diagrams/Software%20Architecture.png "Software Architecture Diagram")
 
 Hardware Architecture Diagram:
+
+![Hardware Architecture Diagram](https://github.com/awalm/StateMachineBot/blob/master/architecture-diagrams/Schematic_updated.png "Hardware Architecture Diagram")
