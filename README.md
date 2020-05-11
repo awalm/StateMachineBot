@@ -1,5 +1,5 @@
 # StateMachineBot
-
+![The robot](https://github.com/awalm/StateMachineBot/blob/master/images/IMG_20200410_004002.jpg)
 Hello! This is my final project for my Embedded Systems course.
 
 The sensors used on this robot are mainly an IR remote control, and an ultrasonic sensor.  The bot supports being directly controlled by the remote control, as well as recording and replaying movements. Hand gestures are detected using the ultrasonic sensor, and can be used to control the robot.
