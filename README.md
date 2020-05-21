@@ -12,7 +12,7 @@ A video demonstration of my bot in action can be found [here](https://www.youtub
 The source code can be found in the "src" folder.
 
 Software Architecture Diagram:
-![Software Architecture Diagram](https://github.com/awalm/StateMachineBot/blob/master/images/Software%20Architecture%20-%20Updated.png "Software Architecture Diagram")
+![Software Architecture Diagram](https://github.com/awalm/StateMachineBot/blob/master/images/Software%20Architecture%20-%20updated.png "Software Architecture Diagram")
 
 Hardware Architecture Diagram:
 
